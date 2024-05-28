@@ -13,13 +13,15 @@ Welcome to **CHIPS**, the ultimate snack lover's paradise! Dive into a delightfu
 
 - **Best UI Design** ✨: Clean, intuitive, and visually appealing.
 - **Smooth Navigation** 🧭: Effortless browsing experience.
+- **Responsive Layout** 📱: Perfectly optimized for all devices.
+- **User-Friendly Navbar** 🗂️: Easy and accessible navigation.
 - **ScrollReveal Transitions** 🎬: Cool animations as you scroll.
 - **Swiper Slider** 🖼️: Interactive, touch-friendly sliders.
 - **Customized Scrollbar** 🎛️: Personalized scrolling experience.
 - **Scroll-Up Button** ⬆️: Easy navigation to the top.
 - **Firebase Deployment** ☁️: Fast and secure hosting with Firebase.
 
-## Visit Online 🌐
+## Visit Us Online 🌐
 
 Check out the live site: [CHIPS Snack Website](https://chips-snacks-site.web.app/)
 
