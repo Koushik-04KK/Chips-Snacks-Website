@@ -23,3 +23,67 @@ const swiperfav = new Swiper('.favorite-swiper', {
     centeredSlides: 'auto',
   
   });
+
+  const menuelement=document.getElementById("menu")
+  const crosselement=document.getElementById("cross")
+  const content =document.getElementById("content")
+  const id1=document.getElementById("t1")
+  const id2=document.getElementById("t2")
+  const id3=document.getElementById("t3")
+  const id4=document.getElementById("t4")
+  const id5=document.getElementById("t5")
+  const id6=document.getElementById("i1")
+  const id7=document.getElementById("i2")
+  const id8=document.getElementById("i3")
+  
+menuelement.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
+crosselement.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
+
+id1.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
+id2.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
+id3.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
+id4.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
+id5.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
+id6.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
+id7.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
+id8.addEventListener("click",()=>{
+    content.classList.toggle("hidden")
+    crosselement.classList.toggle("hidden")
+    menuelement.classList.toggle("hidden")
+})
